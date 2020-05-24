@@ -1,3 +1,6 @@
+# Exclude data from the "Example data" folder
+/Example data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
